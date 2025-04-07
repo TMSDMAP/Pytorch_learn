@@ -1,6 +1,6 @@
 # C++/CUDA Extensions in PyTorch
 
-这是一个关于为 PyTorch 编写 C++/CUDA 扩展的示例。本文提供了如何编写一个示例 `extension_cpp.ops.add` 自定义运算符，该运算符包括 CPU 和 CUDA 内核的实现。
+本文提供了如何编写一个示例 `extension_cpp.ops.add` 自定义运算符，该运算符包括 CPU 和 CUDA 内核的实现。
 
 本示例适用于 PyTorch 2.4+ 版本。
 
